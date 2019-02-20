@@ -2,7 +2,6 @@
 **使用高德地图定位将AR模型与经纬度坐标关联并在Android设备上展示(demo)**
 
 使用google ARCore Sceneform API
-2019/02/20
 
 ---
 
