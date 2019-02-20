@@ -3,10 +3,19 @@
 
 2019/02/20
 
+---
+
 **实现效果图：**
 
-<img src="https://github.com/silverbullet1472/Amap-GPS-ARLocation/blob/master/WHUMarker.png" width="30%">
-<img src="https://github.com/silverbullet1472/Amap-GPS-ARLocation/blob/master/CCNUMarker.png" width="30%">
+武汉大学AR标识：
+
+<img src="https://github.com/silverbullet1472/Amap-GPS-ARLocation/blob/master/WHUMarker.png" width="45%">
+
+华中师范大学AR标识:
+
+<img src="https://github.com/silverbullet1472/Amap-GPS-ARLocation/blob/master/CCNUMarker.png" width="45%">
+
+---
 
 **重要方法介绍：**
 
